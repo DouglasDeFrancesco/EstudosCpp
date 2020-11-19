@@ -1,0 +1,2 @@
+C:\CPP-cursocfb\Aula03\Debug\Aula03.exe
+C:\CPP-cursocfb\Aula03\Debug\Aula03.pdb
