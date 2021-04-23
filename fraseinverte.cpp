@@ -21,7 +21,7 @@ int main(int argc, char** argv) {
 	
 	 //tamanho da frase lida
 	 tamanho = strlen(frase);
-	 cout << endl<< "tamanho: " << tamanho << endl; 
+	 cout << endl<< "tamanho " << tamanho << endl; 
 	
 	//inverter a frase lida
 	cout << "frase invertida: ";
